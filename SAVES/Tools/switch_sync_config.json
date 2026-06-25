@@ -1,0 +1,258 @@
+{
+  "jksv_dir": "JKSV",
+  "archive_dir": "SAVES/Nintendo/Switch",
+  "archive_emulator": "Eden",
+  "archive_latest_folder": "latest",
+  "replace_archive_latest": false,
+  "delete_extra_in_archive": true,
+  "eden_save_root": "%APPDATA%/eden/nand/user/save/0000000000000000",
+  "eden_user_id": "80FC76F6C5D3BE06D6082F9CEA6ACAEB",
+  "eden_backup_dir": "SAVES/Tools/sync_backups/eden",
+  "backup_eden_before_write": true,
+  "delete_extra_in_eden": false,
+  "ignore_games": [
+    "_TRASH_"
+  ],
+  "games": {
+    "010048701995E000": {
+      "title_id": "010048701995E000",
+      "archive_name": "Luigi's Mansion 2 HD"
+    },
+    "0100B3F000BE2000": {
+      "title_id": "0100B3F000BE2000",
+      "archive_name": "Pokken Tournament DX"
+    },
+    "DRAGON BALL  Sparking! ZERO": {
+      "title_id": "010035F022078000",
+      "archive_name": "DRAGON BALL Sparking ZERO",
+      "aliases": [
+        "DRAGON BALL Sparking! ZERO"
+      ]
+    },
+    "DRAGON QUEST VII Reimagined": {
+      "title_id": "0100A9D01C446000",
+      "archive_name": "DRAGON QUEST VII Reimagined"
+    },
+    "Fortnite para Nintendo Switch": {
+      "title_id": "010025400AECE000",
+      "archive_name": "Fortnite"
+    },
+    "Hyrule Warriors  Age of Calamity": {
+      "title_id": "01002B00111A2000",
+      "archive_name": "Hyrule Warriors Age of Calamity",
+      "aliases": [
+        "Hyrule Warriors Age of Calamity"
+      ]
+    },
+    "Kirby and the Forgotten Land": {
+      "title_id": "01004D300C5AE000",
+      "archive_name": "Kirby and the Forgotten Land"
+    },
+    "Leyendas Pokemon  Z-A": {
+      "title_id": "0100F43008C44000",
+      "archive_name": "Pokemon Legends Z-A",
+      "aliases": [
+        "Pokemon Legends Z-A"
+      ]
+    },
+    "Luigi's Mansion 3": {
+      "title_id": "0100DCA0064A6000",
+      "archive_name": "Luigi's Mansion 3"
+    },
+    "Mario & Luigi  Brothership": {
+      "title_id": "01006D0017F7A000",
+      "archive_name": "Mario & Luigi Brothership",
+      "aliases": [
+        "Mario & Luigi Brothership"
+      ]
+    },
+    "Mario Kart 8 Deluxe": {
+      "title_id": "0100152000022000",
+      "archive_name": "Mario Kart 8 Deluxe"
+    },
+    "Metroid Dread": {
+      "title_id": "010093801237C000",
+      "archive_name": "Metroid Dread"
+    },
+    "Metroid Prime 4  Beyond": {
+      "title_id": "010019A01E2F2000",
+      "archive_name": "Metroid Prime 4 Beyond",
+      "aliases": [
+        "Metroid Prime 4 Beyond"
+      ]
+    },
+    "Metroid Prime Remastered": {
+      "title_id": "010012101468C000",
+      "archive_name": "Metroid Prime Remastered"
+    },
+    "New Pokemon Snap": {
+      "title_id": "0100F4300BF2C000",
+      "archive_name": "New Pokemon Snap"
+    },
+    "New Super Mario Bros. U Deluxe": {
+      "title_id": "0100EA80032EA000",
+      "archive_name": "New Super Mario Bros. U Deluxe"
+    },
+    "Paper Mario  The Origami King": {
+      "title_id": "0100A3900C3E2000",
+      "archive_name": "Paper Mario The Origami King",
+      "aliases": [
+        "Paper Mario The Origami King"
+      ]
+    },
+    "Paper Mario  The Thousand-Year Door": {
+      "title_id": "0100ECD018EBE000",
+      "archive_name": "Paper Mario The Thousand-Year Door",
+      "aliases": [
+        "Paper Mario The Thousand-Year Door"
+      ]
+    },
+    "Pikmin 1": {
+      "title_id": "0100AA80194B0000",
+      "archive_name": "Pikmin 1"
+    },
+    "Pokemon Brilliant Diamond": {
+      "title_id": "0100000011D90000",
+      "archive_name": "Pokemon Brilliant Diamond"
+    },
+    "Pokemon Legends  Arceus": {
+      "title_id": "01001F5010DFA000",
+      "archive_name": "Pokemon Legends Arceus",
+      "aliases": [
+        "Pokemon Legends Arceus"
+      ]
+    },
+    "Pokemon Scarlet": {
+      "title_id": "0100A3D008C5C000",
+      "archive_name": "Pokemon Scarlet"
+    },
+    "Pokemon Sword": {
+      "title_id": "0100ABF008968000",
+      "archive_name": "Pokemon Sword"
+    },
+    "Pokemon  Let's Go  Pikachu!": {
+      "title_id": "010003F003A34000",
+      "archive_name": "Pokemon Let's Go Pikachu",
+      "aliases": [
+        "Pokemon Let's Go Pikachu"
+      ]
+    },
+    "Princess Peach  Showtime!": {
+      "title_id": "01007A3009184000",
+      "archive_name": "Princess Peach Showtime",
+      "aliases": [
+        "Princess Peach Showtime"
+      ]
+    },
+    "Princess Peach  Showtime! Demo": {
+      "title_id": "010024701DC2E000",
+      "archive_name": "Princess Peach Showtime Demo",
+      "aliases": [
+        "Princess Peach Showtime Demo"
+      ]
+    },
+    "Scott Pilgrim vs The World  The Game": {
+      "title_id": "0100394011C30000",
+      "archive_name": "Scott Pilgrim vs The World The Game",
+      "aliases": [
+        "Scott Pilgrim vs The World The Game"
+      ]
+    },
+    "Sonic Frontiers": {
+      "title_id": "010059C014C40000",
+      "archive_name": "Sonic Frontiers"
+    },
+    "SONIC X SHADOW GENERATIONS": {
+      "title_id": "01005EA01C0FC000",
+      "archive_name": "SONIC X SHADOW GENERATIONS",
+      "aliases": [
+        "Sonic X Shadow Generations"
+      ]
+    },
+    "Super Mario 3D All-Stars": {
+      "title_id": "010049900F546000",
+      "archive_name": "Super Mario 3D All-Stars"
+    },
+    "Super Mario 3D World + Bowser's Fury": {
+      "title_id": "010028600EBDA000",
+      "archive_name": "Super Mario 3D World + Bowser's Fury"
+    },
+    "Super Mario Bros. Wonder": {
+      "title_id": "010015100B514000",
+      "archive_name": "Super Mario Bros. Wonder"
+    },
+    "Super Mario Galaxy 2": {
+      "title_id": "0100FD8022DAA000",
+      "archive_name": "Super Mario Galaxy 2"
+    },
+    "SUPER MARIO MAKER 2": {
+      "title_id": "01009B90006DC000",
+      "archive_name": "Super Mario Maker 2",
+      "aliases": [
+        "Super Mario Maker 2"
+      ]
+    },
+    "SUPER MARIO ODYSSEY": {
+      "title_id": "0100000000010000",
+      "archive_name": "Super Mario Odyssey",
+      "aliases": [
+        "Super Mario Odyssey"
+      ]
+    },
+    "Super Mario Party Jamboree": {
+      "title_id": "0100965017338000",
+      "archive_name": "Super Mario Party Jamboree"
+    },
+    "Super Mario RPG": {
+      "title_id": "0100BC0018138000",
+      "archive_name": "Super Mario RPG"
+    },
+    "Super Smash Bros. Ultimate": {
+      "title_id": "01006A800016E000",
+      "archive_name": "Super Smash Bros. Ultimate"
+    },
+    "The Legend of Zelda  Breath of the Wild": {
+      "title_id": "01007EF00011E000",
+      "archive_name": "The Legend of Zelda Breath of the Wild",
+      "aliases": [
+        "The Legend of Zelda Breath of the Wild"
+      ]
+    },
+    "The Legend of Zelda  Echoes of Wisdom": {
+      "title_id": "01008CF01BAAC000",
+      "archive_name": "The Legend of Zelda Echoes of Wisdom",
+      "aliases": [
+        "The Legend of Zelda Echoes of Wisdom"
+      ]
+    },
+    "The Legend of Zelda  Link's Awakening": {
+      "title_id": "01006BB00C6F0000",
+      "archive_name": "The Legend of Zelda Link's Awakening",
+      "aliases": [
+        "The Legend of Zelda Link's Awakening"
+      ]
+    },
+    "The Legend of Zelda  Skyward Sword HD": {
+      "title_id": "01002DA013484000",
+      "archive_name": "The Legend of Zelda Skyward Sword HD",
+      "aliases": [
+        "The Legend of Zelda Skyward Sword HD"
+      ]
+    },
+    "The Legend of Zelda  Tears of the Kingdom": {
+      "title_id": "0100F2C0115B6000",
+      "archive_name": "The Legend of Zelda Tears of the Kingdom",
+      "aliases": [
+        "The Legend of Zelda Tears of the Kingdom",
+        "Tears of the Kingdom"
+      ]
+    },
+    "WarioWare  Move It!": {
+      "title_id": "0100A1E00F68E000",
+      "archive_name": "WarioWare Move It",
+      "aliases": [
+        "WarioWare Move It"
+      ]
+    }
+  }
+}
